@@ -1,0 +1,15 @@
+[
+    {
+      "key": 1,
+      "control": "A.5.1.1 Policies for information security",
+      "question": "Is there a formal security policy in place?",
+      "status": ""
+    },
+    {
+      "key": 2,
+      "control": "A.5.1.2 Review of security policies",
+      "question": "Is the security policy reviewed regularly?",
+      "status": ""
+    }
+  ]
+  
