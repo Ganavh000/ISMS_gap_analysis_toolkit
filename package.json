@@ -1,0 +1,19 @@
+{
+  "name": "isms-gap-analysis-toolkit",
+  "version": "1.0.0",
+  "homepage": "https://ganavh000.github.io/ISMS_gap_analysis_toolkit/",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1",
+    "antd": "^4.20.0",
+    "xlsx": "^0.18.5",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build"
+  }
+}
